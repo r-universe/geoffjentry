@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "twitteR"]
+	path = twitteR
+	url = https://github.com/geoffjentry/twitter
+	shallow = true
+	registered = true
